@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: chocolate;
 }
@@ -12,5 +12,5 @@ nav a{
     padding: 10px; 
 }
 nav a:hover{
-    
+
 }
