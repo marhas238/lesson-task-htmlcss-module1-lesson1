@@ -1,16 +1,30 @@
-body {
-    background-color: red;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: chocolate;
+header, 
+footer {
+    background-color: #202020;
+    color: #ffffff;
 }
-h1{
-    font-family: inline-block;
-}
-nav a{
-    color: 
-    text-decoration: none;
-    padding: 10px; 
-}
-nav a:hover{
 
+header a {
+    color: #ffffff;
+}
+
+.cta {
+    background-color: #bb0000;
+    color:#ffffff;
+    font-size: 1.5em;
+}
+
+.reviews{
+    background-color: #e8e8e8;
+}
+
+.featured-products{
+    background-color: #fbfbfb;
+}
+
+.cta-sale {
+background-color: #127300;
+}
+footer{
+    text-align: center;
 }
