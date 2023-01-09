@@ -3,3 +3,14 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: chocolate;
 }
+h1{
+    font-family: inline-block;
+}
+nav a{
+    color: 
+    text-decoration: none;
+    padding: 10px; 
+}
+nav a:hover{
+    
+}
